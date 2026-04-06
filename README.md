@@ -1,6 +1,7 @@
 # NexusAI Intern Challenge
 
 This repository contains all required tasks:
+
 - `task1/` AI Message Handler
 - `task2/` PostgreSQL Schema + Async Repository
 - `task3/` Parallel Data Fetcher
