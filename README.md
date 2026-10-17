@@ -16,7 +16,6 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-
 ## Task 1: AI Message Handler
 
 File: `task1/message_handler.py`
